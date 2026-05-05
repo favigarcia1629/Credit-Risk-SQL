@@ -2,6 +2,8 @@
 
 **Who defaults — and why? A SQL-driven analysis of 9,578 personal loans.**
 
+🔗 **[Live Interactive Dashboard](https://public.tableau.com/app/profile/favianesi.garcia/viz/SQLCreditAnalysis/CreditRiskDashboard)**
+
 Built a complete data pipeline from raw loan data to a Tableau Public dashboard using SQL to answer the core question lenders face: which borrowers are most likely to default, and is the bank pricing that risk correctly?
 
 ---
