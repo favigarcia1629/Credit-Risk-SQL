@@ -1,0 +1,6 @@
+exports/
+*.db
+loan_data.csv
+__pycache__/
+*.pyc
+.DS_Store
